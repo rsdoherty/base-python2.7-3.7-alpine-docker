@@ -1,0 +1,10 @@
+Werkzeug==0.14.1
+flask==1.0.2
+flask-restplus==0.12.1
+Flask-SQLAlchemy==2.1
+ipmitools==0.3
+Cython==0.29.6
+pymssql==2.1.4
+pywinrm==0.3.0
+celery==4.2.2
+redis==3.2.1
