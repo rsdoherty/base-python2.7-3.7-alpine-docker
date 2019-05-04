@@ -8,3 +8,6 @@ pymssql==2.1.4
 pywinrm==0.3.0
 celery==4.2.2
 redis==3.2.1
+pycodestyle==2.5.0
+pylint==1.9.4
+bandit==1.5.1
